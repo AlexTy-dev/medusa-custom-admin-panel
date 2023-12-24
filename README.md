@@ -44,6 +44,14 @@ Visit the [Docs](https://docs.medusajs.com/development/backend/prepare-environme
 
 ## Start guide
 
+Create .env file with your credentials, for exapmle:
+``` 
+DATABASE_TYPE=postgres
+DATABASE_URL=postgres://postgres:postgres@localhost/medusa-cpLz
+MEDUSA_ADMIN_ONBOARDING_TYPE=default
+STORE_CORS=http://localhost:8000,http://localhost:7001
+```
+
 Install node modules 
 ``` 
 yarn
