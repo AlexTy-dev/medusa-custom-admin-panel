@@ -4,7 +4,7 @@
 /uploads
 /node_modules
 yarn-error.log
-.vscode
+
 
 /custom-packages/admin-custom/node_modules
 /custom-packages/admin-ui-custom/node_modules
