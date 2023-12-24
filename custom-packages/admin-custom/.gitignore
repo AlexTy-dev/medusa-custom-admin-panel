@@ -1,0 +1,14 @@
+/dist
+/build
+.vercel
+
+/node_modules
+/api
+/commands
+/lib
+/setup
+/types
+/utils
+
+/**/*.d.ts*
+/**/*.js*

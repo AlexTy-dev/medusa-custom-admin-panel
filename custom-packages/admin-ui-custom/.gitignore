@@ -1,0 +1,9 @@
+/dist
+/build
+.vercel
+/ui/preview
+/ui/src/extensions
+/node_modules
+
+/custom-packages/admin-custom/node_modules
+/custom-packages/admin-ui-custom/node_modules
