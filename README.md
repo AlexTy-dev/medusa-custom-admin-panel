@@ -63,7 +63,7 @@ cd custom-packages/admin-custom && yarn
 cd custom-packages/admin-ui-custom && yarn
 ```
 
-Start command in root folter
+Start command in root folder
 ``` 
 yarn link:admin-custom
 ```
